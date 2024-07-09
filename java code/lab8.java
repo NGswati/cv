@@ -172,12 +172,7 @@ public class lab8{
                 int r = sc.nextInt();
                 System.out.print("Enter Date OF Birth : ");
                 String dob = sc.nextLine();
-                System.out.println("\nname : "+ f+" "+ln);
-                System.out.println("PAN : "+ pan);
-                System.out.println("PIN : "+ pin);
-                System.out.println("Email ID : "+ e);
-                System.out.println("Roll Number : "+ r);
-                System.out.println("Date Of Birth : "+ dob);
+                sc.next();
                 int flag=0;
                 if (dob.length()!=8){
                     flag=1;
