@@ -3,7 +3,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 abstract class  user{
     private String name;
-    String dateOfbirth;
+     String dateOfbirth;
     int userid;
     user(){
         name="NIL";
