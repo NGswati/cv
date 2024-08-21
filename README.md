@@ -33,7 +33,7 @@ Language Highlights
 
 
 ## Clone the repository:
-1. git clone https://github.com/NGswati/<repository-name>.git
-cd <repository-name>
+1. git clone https://github.com/NGswati/<codingProfile>.git
+cd <codingProfile>
 2. Navigate to the desired language folder and explore the files.
 3. Follow the specific instructions in individual files (if provided) to run them.
