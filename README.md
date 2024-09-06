@@ -22,7 +22,7 @@ Language Highlights
 -Showcases object-oriented programming techniques.
 -Features projects utilizing STL (Standard Template Library) for data structures and algorithms.
 ## Java Code
--Contains examples of enterprise-level programming.
+-Contains examples of enterprise-level programming like server-client.
 -Demonstrates object-oriented principles and multi-threading concepts.
 ## MIPS Code
 -Includes low-level programs designed for assembly language learners.
