@@ -5,15 +5,14 @@
 This repository serves as a collection of code snippets, programs, and projects written in multiple programming languages from my BTech. Each folder showcases unique implementations, algorithms, providing a diverse set of examples for developers and learners alike. From AI-driven Python scripts to system-level MIPS programs, this repository has something for everyone.
 
 ## Repository Structure
-'''
-Code Repository/
+```Code Repository/
 ├── c code/               # Code written in C
 ├── cpp code/             # Code written in C++
 ├── java code/            # Code written in Java
 ├── mips code/            # MIPS assembly code for system-level programming
 ├── python code/          # AI and other Python scripts
 ├── README.md             # Documentation for the repository
-'''
+```
 # Language Highlights
 
 ## C Code
@@ -34,7 +33,7 @@ Code Repository/
 
 
 ## Clone the repository:
-1. git clone https://github.com/NGswati/<codingProfile>.git
-cd <codingProfile>
+1. git clone https://github.com/NGswati/codingProfile.git
+```cd codingProfile```
 2. Navigate to the desired language folder and explore the files.
 3. Follow the specific instructions in individual files (if provided) to run them.
